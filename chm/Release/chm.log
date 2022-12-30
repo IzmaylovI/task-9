@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Runge_Kutta_3.cpp
+msvcprtd.lib(locale0_implib.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в main.obj
+msvcprtd.lib(locale0_implib.obj) : error LNK2001: неразрешенный внешний символ __imp___free_dbg.
+msvcprtd.lib(locale0_implib.obj) : error LNK2001: неразрешенный внешний символ __imp___malloc_dbg.
+C:\Users\Ильшат\source\repos\chm\Release\chm.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

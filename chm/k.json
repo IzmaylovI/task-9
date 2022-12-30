@@ -1,0 +1,18 @@
+{
+  "method_param": {
+    "integration_step": 1e-4,
+    "right_border": 1,
+    "max_step": 10000,
+    "epsilon": 1e-5,
+
+    "error_control": "No",
+    "e_gr": 1e-4
+  },
+
+  "system_param": {
+    "L": 0.00005,
+    "R": 2,
+    "U": 5,
+    "I0": 0
+  }
+}
